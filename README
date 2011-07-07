@@ -1,0 +1,36 @@
+Mailer es un pequeño script que automatiza la creacion de cuentas de correo (y usuario) en el servidor de correo de nuestra empresa.
+
+Mailer se desarrollo para un servidor de correo basado en Ubuntu Server y necesita cubrir las siguientes dependencias:
+
+Dependencias:                                                            
+
+apg      <- generador de contraseñas (apt-get install apg)               
+uuencode <- codifica el pdf y lo adjunta (apt-get install sharutils) 
+mail     <- envia el correo desde terminal (apt-get install mailutils) 
+
+Mailer recibe dos datos especificos como parametros: la cuenta de usuario/correo a generar y una cuenta de correo electronico alterno al cual se enviaran instrucciones y datos sobre la nueva cuenta de correo.
+
+Parametros:                                                              
+
+u_acc    <- corresponde a la cuenta del usuario                          
+a_acc    <- corresponde a la cuenta de correo alterno del usuario        
+
+Mailer necesita de dos archivos especificos: notificacion.txt que contiene texto informativo. manual.pdf sera una plantilla con instrucciones de uso para el usuario.
+
+Archivos: 								   
+
+notificacion.txt <- plantilla de notificacion                            
+manual.pdf       <- manual pdf con instrucciones de configuracion y uso  
+u_acc_not        <- notificacion personalizada para el usuario y se genera en base al archivo notificacion.txt
+
+Logs:                                                                    
+
+mailer.log  <- archivo de texto con informacion historica de mailer.sh  
+newmail.log <- archivo con informacion de la ultima cuenta creada        
+
+Cualquier duda o sugerencia:
+
+ptrschz (at) gmail.com
+http://dpf.com.mx
+
+- Pedro Sánchez (Kbyte)
