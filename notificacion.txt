@@ -1,0 +1,25 @@
+Estimado Usuario,
+
+Por este medio se hace de tu conocimiento tu nueva cuenta de Correo Electronico <Empresa>:
+
+
+
+Te recomendamos que uses el navegador firefox para entrar a tu cuenta de correo en el webmail de <empresa>.
+
+Te anexamos un documento PDF con la informacion necesaria para usar y accesar al webmail. 
+El tutorial te dice como cambiar tu password de usuario de tu cuenta de correo electronico de <empresa>, asi
+como entrar al webmail mediante una conexion segura con un certificado emitido por el servidor de <empresa>.
+
+Te pedimos que al momento de enviar y/o recibir correo electronico, desde tu cuenta de <empresa>, pidas a tus contactos 
+que te envien correo a tu nueva cuenta y con copia a tu cuenta de correo anterior (en caso de tener cuenta de mail.server.com), 
+asi mismo cuando envies un email hazlo con copia para la cuenta alterna que proporcionaste, es decir:
+
+
+
+
+
+En el mismo documento encontraras los datos para usar el correo mediante un cliente como Mozilla Thunderbird o algun otro.
+
+Nota: Es importante que lo primero que hagas sea cambiar tu password. Usa un password de al menos 8 caracteres combinando
+numero y letras mayusculas y minusculas. Es importante que sea un password que no se te olvide despues, no uses un password 
+como 123456789 ni abcdefg ya que posiblemente tu cuenta podría comprometerse en terminos de seguridad y afectar a nuestro servidor de correo electronico. 
